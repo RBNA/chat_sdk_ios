@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "ZendeskChatProvidersSDK",
-        "repositoryURL": "https://github.com/zendesk/chat_providers_sdk_ios",
+        "repositoryURL": "https://github.com/RBNA/chat_providers_sdk_ios",
         "state": {
           "branch": null,
-          "revision": "4774294aa2ade1eb74a8d081514d8f6f209232f3",
-          "version": "2.11.2"
+          "revision": "83a8471aaef403150a76e5d3de078777cb235ee6",
+          "version": "2.11.3"
         }
       },
       {
@@ -21,11 +21,11 @@
       },
       {
         "package": "ZendeskMessagingSDK",
-        "repositoryURL": "https://github.com/zendesk/messaging_sdk_ios",
+        "repositoryURL": "https://github.com/RBNA/messaging_sdk_ios",
         "state": {
           "branch": null,
-          "revision": "11121b6dc3e9b3065faa1b6ab2d775b3e3a4ea1e",
-          "version": "3.8.3"
+          "revision": "2abeb58071d48864c9a277144d0089781626e272",
+          "version": "3.8.4"
         }
       },
       {
