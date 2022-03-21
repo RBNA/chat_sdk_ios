@@ -5,45 +5,45 @@
         "package": "ZendeskChatProvidersSDK",
         "repositoryURL": "https://github.com/RBNA/chat_providers_sdk_ios",
         "state": {
-          "branch": null,
+          "branch": "master",
           "revision": "83a8471aaef403150a76e5d3de078777cb235ee6",
-          "version": "2.11.3"
+          "version": null
         }
       },
       {
         "package": "ZendeskCommonUISDK",
-        "repositoryURL": "https://github.com/zendesk/commonui_sdk_ios",
+        "repositoryURL": "https://github.com/RBNA/commonui_sdk_ios",
         "state": {
-          "branch": null,
-          "revision": "45ef3ab2bbf2efbe73735f67723643495c424ffb",
-          "version": "6.1.2"
+          "branch": "master",
+          "revision": "ff096a43ac22b7c65d03c115b2c1bc8fd11f234d",
+          "version": null
         }
       },
       {
         "package": "ZendeskMessagingSDK",
         "repositoryURL": "https://github.com/RBNA/messaging_sdk_ios",
         "state": {
-          "branch": null,
-          "revision": "2abeb58071d48864c9a277144d0089781626e272",
-          "version": "3.8.4"
+          "branch": "master",
+          "revision": "455091f1eb81a6d77412d5f32ce04bbfcd1ef48d",
+          "version": null
         }
       },
       {
         "package": "ZendeskMessagingAPISDK",
-        "repositoryURL": "https://github.com/zendesk/messagingapi_sdk_ios",
+        "repositoryURL": "https://github.com/RBNA/messagingapi_sdk_ios",
         "state": {
-          "branch": null,
-          "revision": "75a4bb9d81bf15de1d4f98f52a4523ce2aacdceb",
-          "version": "3.8.3"
+          "branch": "master",
+          "revision": "c3c925881a2efb1c1c3202921435d73d8487c536",
+          "version": null
         }
       },
       {
         "package": "ZendeskSDKConfigurationsSDK",
-        "repositoryURL": "https://github.com/zendesk/sdkconfigurations_sdk_ios",
+        "repositoryURL": "https://github.com/RBNA/sdkconfigurations_sdk_ios",
         "state": {
-          "branch": null,
-          "revision": "dd8365d28c4885cd916c772db05222acc12c7edf",
-          "version": "1.1.9"
+          "branch": "master",
+          "revision": "dc97d9e37558d19648e13eecb40473d8747e13da",
+          "version": null
         }
       }
     ]
